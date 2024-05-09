@@ -8,7 +8,6 @@
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
-…    }
 
     .botao:first-child {
         border-radius: 40px 0 0 0;
@@ -17,7 +16,6 @@
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
-}
 
 .titulo-principal {
     text-align: left;
